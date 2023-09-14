@@ -1,0 +1,42 @@
+body {
+    background-image: url(/Projeto-ModaOra-Inicio/inicio/imagens/bg_detalhe.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 62px;
+    text-align: left;
+    color: white;
+    padding-top: 100px;
+    text-transform: uppercase;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p {
+    color: white;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+footer {
+    padding: 16px;
+    background-color: rgb(0, 0, 0);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+
+}
+
+footer p {
+    text-align: center;
+    letter-spacing: 2px;
+
+}
